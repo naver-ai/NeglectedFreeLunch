@@ -1,4 +1,4 @@
-## Neglected Free Lunch – Learning Image Classifiers Using Annotation Byproducts | [Paper](coming_soon.pdf)
+## Neglected Free Lunch – Learning Image Classifiers Using Annotation Byproducts | [Paper](https://arxiv.org/abs/2303.17595)
 
 Dongyoon Han<sup>1*</sup>, Junsuk Choe<sup>2*</sup>, Seonghyeok Chun<sup>3</sup>, John Joon Young Chung<sup>4</sup>
 
