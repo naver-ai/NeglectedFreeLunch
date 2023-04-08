@@ -73,5 +73,10 @@ SOFTWARE.
 ### Citing our work
 
 ```
-Coming soon
+@article{han2023arxiv,
+  title = {Neglected Free Lunch – Learning Image Classifiers Using Annotation Byproducts},
+  author = {Han, Dongyoon and Choe, Junsuk and Chun, Seonghyeok and Chung, John Joon Young and Chang, Minsuk and Yun, Sangdoo and Song, Jean Y. and Oh, Seong Joon},
+  journal={arXiv preprint arXiv:2303.17595},
+  year = {2023}
+}
 ```
