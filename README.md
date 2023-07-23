@@ -1,4 +1,4 @@
-## Neglected Free Lunch – Learning Image Classifiers Using Annotation Byproducts | [Paper](https://arxiv.org/abs/2303.17595)
+## Neglected Free Lunch – Learning Image Classifiers Using Annotation Byproducts | [ICCV'23 Paper](https://arxiv.org/abs/2303.17595)
 
 Dongyoon Han<sup>1*</sup>, Junsuk Choe<sup>2*</sup>, Seonghyeok Chun<sup>3</sup>, John Joon Young Chung<sup>4</sup>
 
@@ -18,8 +18,8 @@ Our insight is that such **annotation byproducts** *Z* provide approximate human
 
 We have created **ImageNet-AB** and **COCO-AB** to verify this:
 
-* [ImageNet-AB (annotation byproducts)](https://hybridsupervision-image-net.s3.us-east-2.amazonaws.com/repository/imagenet_ab_v1_0.tar.gz) (Click to start downloading; 529MB)
-* [COCO-AB (annotation byproducts)](https://hybridsupervision-coco.s3.us-east-2.amazonaws.com/hybridsup/coco_ab_v1_0.json) (Click to start downloading; 380MB)
+* [ImageNet-AB (HuggingFace)](https://huggingface.co/datasets/coallaoh/ImageNet-AB)
+* [COCO-AB (HuggingFace)](https://huggingface.co/datasets/coallaoh/COCO-AB)
 
 They are ImageNet and COCO training sets enriched with sample-wise annotation byproducts, collected by replicating the respective original annotation tasks. 
 
@@ -73,10 +73,10 @@ SOFTWARE.
 ### Citing our work
 
 ```
-@article{han2023arxiv,
+@inproceedings{han2023iccv,
   title = {Neglected Free Lunch – Learning Image Classifiers Using Annotation Byproducts},
   author = {Han, Dongyoon and Choe, Junsuk and Chun, Seonghyeok and Chung, John Joon Young and Chang, Minsuk and Yun, Sangdoo and Song, Jean Y. and Oh, Seong Joon},
-  journal={arXiv preprint arXiv:2303.17595},
+  booktitle = {International Conference on Computer Vision (ICCV)},
   year = {2023}
 }
 ```
